@@ -1,1 +1,1 @@
-# SEI-GIT-DEMO
+# My Project 2
