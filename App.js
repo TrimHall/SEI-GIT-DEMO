@@ -1,8 +1,4 @@
 const App = () => {
-  // BANNNNANNANANANANANANANANAANAAAAAAAAA
-  // WOOOOOOOO
-  // MORE LINES!
-  // asifbadiuvbeiubweiubewiuvbewuiw
-
+  // we insert a router here
   return <p>hi</p>;
 };
